@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 家庭衣架分类存放记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/FamilyHangersStorageRecords/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+在日常生活中我们有经常需要用到衣架，不同的衣架有不同的特点和用途。衣架存放不合理不但容易显得比较乱，而且也不方便拿取使用。我们可以给家里的衣架分类，例如平时晾晒衣服的衣架，平时挂西装用的衣架等。我们还可以记录家里不同类型的衣架的数量，衣架的类型，不同的功能用途和存放位置等信息。这样当我们需要用到衣架的时候，就能方便快捷的找到我们想要的衣架了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-# Header 1
-## Header 2
-### Header 3
+我们将第一时间为您解答。
 
-- Bulleted
-- List
+### 邮箱地址: zhanghesongyuan7@126.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/FamilyHangersStorageRecords/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
